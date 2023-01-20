@@ -1,0 +1,1 @@
+var testarray = ['test', 'text', 'tommas' ]
