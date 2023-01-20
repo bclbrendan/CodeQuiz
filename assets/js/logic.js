@@ -2,6 +2,8 @@ var questionTag = document.getElementById('questions')
 var questionTitle = document.getElementById('question-title')
 var answers = document.getElementById('choices')
 
+var endscreen = getElementById('end-screen')
+
 
 console.log(testarray);
 for (var i = 0; i < testarray.length; i++) {
