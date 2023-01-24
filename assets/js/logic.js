@@ -13,7 +13,7 @@ for (var i = 0; i < testarray.length; i++) {
     li.textContent = ans;
     answers.appendChild(li);
 }
-function displayQuestion(questionIndex){
+function displayQuestion(questionIndex){    
 //
 //unhide question section
 //render the first question in the array
